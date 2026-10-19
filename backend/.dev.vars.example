@@ -1,0 +1,3 @@
+# Worker local runtime. Neon Connect -> Connection pooling ON.
+DATABASE_URL="postgresql://USERNAME:ROTATED_PASSWORD@ep-damp-fog-atfw1qt6-pooler.c-9.us-east-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require"
+JWT_SECRET="REPLACE_WITH_LONG_RANDOM_SECRET"
